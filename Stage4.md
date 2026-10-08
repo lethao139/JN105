@@ -17,4 +17,4 @@
 | 13	| わかりません	| I don't understand.	| ❌🤷 |
 | 14	| ～って どういう いみですか	| What does ~ mean?	| ❓📖 |
 
-- Practice shadowing : https://youtu.be/OuAMZp-sLaE
+- Practice shadowing : https://youtu.be/lW6Nm8RqSIE
