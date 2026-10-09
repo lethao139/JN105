@@ -1,6 +1,7 @@
 - New words
+
 | No. | Japanese | English Meaning |	Illustration |
-| ---| --- | --- | --- |
+| --- | --- | --- | --- |
 | 1 |	ジュース	| Juice / Soft drink	| 🧃🥤 |
 | 2 |	ベッド |	Bed |	🛏️ |
 | 3 |	シャツ |	Shirt |	👕 |
